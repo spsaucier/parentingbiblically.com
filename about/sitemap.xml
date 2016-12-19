@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/evocode/metalsmith-base/lessons/foreword-the-job-contract</loc>
-    <lastmod>2016-07-04</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/introduction</loc>
     <lastmod>2016-07-05</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/pre-requisite-relationships</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/introduction</loc>
     <lastmod>2016-07-06</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/basic-principles</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/pre-requisite-relationships</loc>
     <lastmod>2016-07-07</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/respect</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/basic-principles</loc>
     <lastmod>2016-07-08</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/obedience</loc>
-    <lastmod>2016-07-10</lastmod>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/respect</loc>
+    <lastmod>2016-07-09</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/discipline</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/obedience</loc>
     <lastmod>2016-07-11</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/consequences-chastisement</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/discipline</loc>
     <lastmod>2016-07-12</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/advanced-discipline-issues</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/consequences-chastisement</loc>
     <lastmod>2016-07-13</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/appeals-family-building</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/advanced-discipline-issues</loc>
     <lastmod>2016-07-14</lastmod>
   </url>
   <url>
-    <loc>https://github.com/evocode/metalsmith-base/lessons/child-raising-suggestions</loc>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/appeals-family-building</loc>
     <lastmod>2016-07-15</lastmod>
   </url>
   <url>
+    <loc>https://github.com/evocode/metalsmith-base/lessons/child-raising-suggestions</loc>
+    <lastmod>2016-07-16</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/evocode/metalsmith-base/</loc>
-    <lastmod>2016-12-11</lastmod>
+    <lastmod>2016-12-19</lastmod>
   </url>
   <url>
     <loc>https://github.com/evocode/metalsmith-base/lessons/</loc>
-    <lastmod>2016-12-11</lastmod>
+    <lastmod>2016-12-19</lastmod>
   </url>
 </urlset>
